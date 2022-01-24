@@ -1,5 +1,6 @@
 package hello.servlet;
 
+import hello.servlet.web.springmvc.v1.SpringMemberFormControllerV1;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.web.servlet.ServletComponentScan;
